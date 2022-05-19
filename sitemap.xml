@@ -168,16 +168,6 @@
   </url>
   
   <url>
-    <loc>https://anderson-oc.github.io/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anderson-oc.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://anderson-oc.github.io/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -310,6 +300,14 @@
   <url>
     <loc>https://anderson-oc.github.io/publication/my_spmehs_article/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anderson-oc.github.io/project/external-project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anderson-oc.github.io/tag/whale-viz/</loc>
   </url>
   
   <url>
