@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualization | Anderson O. Cox</title>
+    <link>https://anderson-oc.github.io/tag/visualization/</link>
+      <atom:link href="https://anderson-oc.github.io/tag/visualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visualization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://anderson-oc.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Visualization</title>
+      <link>https://anderson-oc.github.io/tag/visualization/</link>
+    </image>
+    
+    <item>
+      <title>Whale Data Visualization</title>
+      <link>https://anderson-oc.github.io/project/external-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://anderson-oc.github.io/project/external-project/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;external_link: /BigDataBowl_2022
+summary: A project looking at weather impact on special teams data from Big Data Bowl 2022
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Visualization&lt;/li&gt;
+&lt;li&gt;Regression Analysis
+title: Big Data Bowl Special Teams Weather Impact&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
