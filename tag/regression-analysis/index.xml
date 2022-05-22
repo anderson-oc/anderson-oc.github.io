@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regression Analysis | Anderson O. Cox</title>
+    <link>https://anderson-oc.github.io/tag/regression-analysis/</link>
+      <atom:link href="https://anderson-oc.github.io/tag/regression-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Regression Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://anderson-oc.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Regression Analysis</title>
+      <link>https://anderson-oc.github.io/tag/regression-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Big Data Bowl Special Teams Weather Impact</title>
+      <link>https://anderson-oc.github.io/project/bdb_2022_project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://anderson-oc.github.io/project/bdb_2022_project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
