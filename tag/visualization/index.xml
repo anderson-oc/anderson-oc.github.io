@@ -25,20 +25,7 @@
       <link>https://anderson-oc.github.io/project/external-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://anderson-oc.github.io/project/external-project/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;external_link: /BigDataBowl_2022
-image:
-caption: Photo
-focal_point: Smart
-summary: A project looking at weather impact on special teams data from Big Data Bowl 2022
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Visualization&lt;/li&gt;
-&lt;li&gt;Regression Analysis
-title: Big Data Bowl Special Teams Weather Impact&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
