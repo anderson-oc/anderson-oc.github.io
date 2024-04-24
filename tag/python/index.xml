@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Anderson O. Cox</title>
-    <link>https://anderson-oc.github.io/project/</link>
-      <atom:link href="https://anderson-oc.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Python | Anderson O. Cox</title>
+    <link>https://anderson-oc.github.io/tag/python/</link>
+      <atom:link href="https://anderson-oc.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://anderson-oc.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>https://anderson-oc.github.io/project/</link>
+      <title>Python</title>
+      <link>https://anderson-oc.github.io/tag/python/</link>
     </image>
     
     <item>
@@ -19,22 +19,6 @@
       <guid>https://anderson-oc.github.io/project/internal-project/</guid>
       <description>&lt;p&gt;I have a simulation project that I worked on as a group in my Simulations class which simulates a pandemic spreading through a classroom. We&amp;rsquo;ve been asked not to publish it in public, but I would be happy to share the work with you if you would like to see an example of my Python coding or distribution and simulation analysis.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Big Data Bowl Special Teams Weather Impact</title>
-      <link>https://anderson-oc.github.io/project/bdb_2022_project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anderson-oc.github.io/project/bdb_2022_project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Whale Data Visualization</title>
-      <link>https://anderson-oc.github.io/project/external-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anderson-oc.github.io/project/external-project/</guid>
-      <description></description>
     </item>
     
   </channel>

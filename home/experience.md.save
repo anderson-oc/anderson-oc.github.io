@@ -1,0 +1,77 @@
++++
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
+
+title = "Experience"
+subtitle = ""
+
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[experience]]
+  title = "Laboratory Technician IV"
+  company = "WFBMC"
+  company_url = ""
+  location = "North Carolina"
+  date_start = "2016-08-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Provided method development and consulting support for analytical projects including several novel LC-MS/MS methods
+  * Prepared samples for analysis on multiple platforms
+  * Instrumental analysis that included running the instruments and analysing data
+  * Modeled data for from many mass spectrometry experiments
+  * Provided statistical support for studies that consisted of data I produced as well as external data
+  
+[[experience]]
+  title = "Laboratory Technician"
+  company = "Truman State University"
+  company_url = ""
+  location = "Missouri"
+  date_start = "2014-08-01"
+  date_end = "2016-05-01"
+  description = """Maintained a stockroom and materials for organic chemistry labs. Repaired a GC/MS instrument."""
+  
+[[experience]]
+  title = "Chemist I"
+  company = "RTI International"
+  company_url = ""
+  location = "North Carolina"
+  date_start = "2010-08-06"
+  date_end = "2014-07-01"
+  description = """Provided sample preparation, chromatography, and mass spectrometry for a variety of projects."""
+
++++
